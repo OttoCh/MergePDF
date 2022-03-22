@@ -4,7 +4,6 @@
 
 ### Required Package
 
-> pip install PDFNetPython3==8.1.0
 > pip install PyPDF2
 
 ### Usage
