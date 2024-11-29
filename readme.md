@@ -4,7 +4,7 @@
 
 ### Required Package
 
-> pip install PyPDF2
+> pip install 'PyPDF2<3.0'
 
 ### Usage
 
